@@ -2688,3 +2688,42 @@ section {
 .footer .footer-legal .credits a {
   color: var(--color-primary);
 }
+.box {
+  box-shadow: 2px 2px 2px 2px #ddd;
+  padding:  20px  30px;
+  margin-top: 20px;
+}
+.box img{
+  width: 100%;
+  height: 150px;
+  border-radius: 0 50px 0 50px;
+  border-style: groove;
+}
+.box h3{
+  text-align: center;
+  color: #000;
+  margin-top: 15px;
+}
+
+.box1 {
+  box-shadow: 2px 2px 2px 2px #ddd;
+  padding:  20px  30px;
+  margin-top: 20px;
+}
+.box1 img{
+  width: 100%;
+  height: 150px;
+  border-radius:  50px 0 50px 0;
+  border-style: groove;
+}
+.box1 h3{
+  text-align: center;
+  color: #000;
+  margin-top: 15px;
+}
+.justify p{
+  margin-top: 25px;
+  font-size: 1.1em;
+  color: #000;
+  text-align: center;
+}
